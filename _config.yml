@@ -1,0 +1,28 @@
+name: HealthyHabits
+favicon: null
+layout_spectrum: 0.7696818239055574
+typography_spectrum: 0.2598682881798595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4366742130368948
+  lightness: 0.06511595798656344
+  saturation: 0.03997057303786278
+  rhythmicContrast: 0.5466453966218978
+purpose: []
